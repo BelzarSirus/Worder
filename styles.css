@@ -1,6 +1,6 @@
 
 .t1 {
-    width: 5em;
+    width: 4em;
     background-color: rgb(255, 215, 210);
     text-align-last: right;
     border-radius: 50px;        
@@ -34,4 +34,16 @@ table {
     display:inline-block;
     box-shadow:0 0 5px 2px #00000080 inset;    
     padding: 15px;
+}
+
+#time {
+    width: auto ;
+}
+
+#words {
+    width: 80px;
+}
+
+#header {
+    width: 100em ;
 }
