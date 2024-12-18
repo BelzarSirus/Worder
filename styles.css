@@ -1,14 +1,21 @@
 
 .t1 {
     width: 4em;
+    /* width: 100%; */
     background-color: rgb(255, 215, 210);
     text-align-last: right;
-    border-radius: 50px;        
+    border-radius: 50px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: large; 
+
 }
 
 .w1 {
+    /* width: 100%; */
     font-family: Arial, sans-serif;
     font-weight: bold;
+    font-size: large;        
     width: 3em;
     text-align-last: center;
     background-color: #ece6ff;
@@ -37,7 +44,7 @@ table {
 }
 
 #time {
-    width: auto ;
+    width: 80px ;
 }
 
 #words {
@@ -45,5 +52,5 @@ table {
 }
 
 #header {
-    width: 100em ;
+    width: auto ;
 }
